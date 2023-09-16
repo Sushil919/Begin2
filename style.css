@@ -26,8 +26,21 @@ body {
   width: 100%;
   padding: 20px 30px;
 }
+#lnavr{
+  display: flex;
+  align-items: center;
+
+}
 #lnavr a {
-  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+
+}
+lnavr{
+  color: royalblue;
 }
 #right {
   width: 60%;
